@@ -1,0 +1,32 @@
+_repo: Voyage-autour-de-mon-jardin_38385
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38385-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Karr, Alphonse
+    alias: Karr, Jean-Alphonse
+    birthdate: 1808
+    deathdate: 1890
+    gutenberg_agent_id: '37873'
+    url: http://www.gutenberg.org/2009/agents/37873
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jean-Baptiste_Alphonse_Karr
+    - http://fr.wikipedia.org/wiki/Alphonse_Karr
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38385'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gardening'
+- !lcc 'PQ'
+- !lcsh 'Gardens'
+title: Voyage autour de mon jardin
+url: http://www.gutenberg.org/ebooks/38385
